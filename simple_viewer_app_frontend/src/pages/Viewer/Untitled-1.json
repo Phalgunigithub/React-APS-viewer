@@ -1,0 +1,81 @@
+{
+    "config": {
+        "url": "buckets",
+        "method": "post",
+        "data": "{\"bucketKey\":\"react-viewer\",\"policyKey\":\"transient\"}",
+        "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/json",
+            "x-ads-region": "US",
+            "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IlhrUFpfSmhoXzlTYzNZS01oRERBZFBWeFowOF9SUzI1NiIsInBpLmF0bSI6ImFzc2MifQ.eyJzY29wZSI6WyJidWNrZXQ6Y3JlYXRlIiwiYnVja2V0OmRlbGV0ZSIsImRhdGE6d3JpdGUiXSwiY2xpZW50X2lkIjoiTDFyZmNZUTh5RkxNMTNDd2xpMmU2V0FKRnZKZXd1bTVZUzExSDh6RURNTzRBcFZuIiwiaXNzIjoiaHR0cHM6Ly9kZXZlbG9wZXIuYXBpLmF1dG9kZXNrLmNvbSIsImF1ZCI6Imh0dHBzOi8vYXV0b2Rlc2suY29tIiwianRpIjoiS2RicUhmaDZuOUlkcnRuaEJnRlpKSkx6SWhtNVBGaUsyWHZZdDdLM0hmRURjSkxQQlZnQmpFTENBOFplQTNlYiIsImV4cCI6MTcyODU0Mjk0MH0.fjvArKKRh8zcUAESnXKOyKKSvQq63zZ2lBLVBNuKlQh3mb_XiuKt7lm-OulVIWN2yPVbgD2gk2xhxjI520LTOKAr4vZSD5AsqOI7GY79iL2gsUYBhenP3uLEPq7JZxxPs0Zige3mOSPeoaal8sXYtamD_qT31e2_zDXiYBpu3JLqNZH0iIYfLwqztp1nQkO7qJRQgBAYLBIAa0XJl1ug_68C-m1LqIX0gUKFGM_dgCcoPU4jglMsUGEg9OC3CaCGg90y34AUq2Uq_EKhVZFxmVcz674l-CMr92J-nhKnGHxZZGj48qnLCRize9Rhl4JWPd14f6qPELUFK7w9z1cHKw",
+            "User-Agent": "axios/0.21.4",
+            "Content-Length": 52
+        },
+        "baseURL": "https://developer.api.autodesk.com/oss/v2/",
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": 9007199254740991,
+        "maxBodyLength": 9007199254740991,
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "raxConfig": {
+            "currentRetryAttempt": 0,
+            "retry": 3,
+            "retryDelay": 100,
+            "backoffType": "exponential",
+            "httpMethodsToRetry": [
+                "GET",
+                "HEAD",
+                "PUT",
+                "OPTIONS",
+                "DELETE"
+            ],
+            "noResponseRetries": 2,
+            "checkRetryAfter": true,
+            "maxRetryAfter": 300000,
+            "statusCodesToRetry": [
+                [
+                    100,
+                    199
+                ],
+                [
+                    429,
+                    429
+                ],
+                [
+                    500,
+                    599
+                ]
+            ]
+        }
+    },
+    "data": {
+        "reason": "Bucket already exists"
+    },
+    "headers": {
+        "server": "nginx",
+        "date": "Thu, 10 Oct 2024 05:49:01 GMT",
+        "content-type": "application/json",
+        "content-length": "34",
+        "connection": "close",
+        "x-ads-region": "US",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "access-control-allow-origin": "*",
+        "access-control-allow-headers": "Authorization, Accept-Encoding, Range, Content-Type",
+        "access-control-allow-methods": "GET",
+        "x-frame-options": "SAMEORIGIN",
+        "x-request-id": "051f32ac-490b-49d3-8965-2fa4b414d4ef"
+    },
+    "status": 409,
+    "statusText": "Conflict"
+}

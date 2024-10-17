@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleViewerApp", "SimpleViewerApp.csproj", "{15A1249C-F6AC-409E-BB04-6EA6047DEDF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{A6B93349-088C-46E7-A32C-2BBD3E31156D}"
+	ProjectSection(SolutionItems) = preProject
+		AuthController.cs = AuthController.cs
+		ModelsController.cs = ModelsController.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{8DD80664-F4C9-46D5-BED5-D2D5C1E3E232}"
+	ProjectSection(SolutionItems) = preProject
+		APS.Auth.cs = APS.Auth.cs
+		APS.cs = APS.cs
+		APS.Deriv.cs = APS.Deriv.cs
+		APS.Oss.cs = APS.Oss.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wwwroot", "wwwroot", "{85ACC12C-E567-4B90-8443-380EB25A4712}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E094E9B-579E-4509-8D7B-133CFD7C8426}"
+	ProjectSection(SolutionItems) = preProject
+		Startup.cs.cs = Startup.cs.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A1249C-F6AC-409E-BB04-6EA6047DEDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A1249C-F6AC-409E-BB04-6EA6047DEDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A1249C-F6AC-409E-BB04-6EA6047DEDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A1249C-F6AC-409E-BB04-6EA6047DEDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D27D3818-E892-4517-9845-1EAC370D2323}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "jquw/jc3u8s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SEZ6471\\source\\repos\\SimpleViewerApp\\SimpleViewerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\autodesk.authentication\\1.0.0\\autodesk.authentication.1.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\autodesk.datamanagement\\1.0.0\\autodesk.datamanagement.1.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\autodesk.forge.core.netstandard\\2.0.0\\autodesk.forge.core.netstandard.2.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\autodesk.modelderivative\\1.0.0\\autodesk.modelderivative.1.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\autodesk.oss\\1.0.0\\autodesk.oss.1.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\autodesk.sdkmanager\\1.0.0\\autodesk.sdkmanager.1.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.aspnet.cors\\5.3.0\\microsoft.aspnet.cors.5.3.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\6.0.1\\microsoft.extensions.configuration.environmentvariables.6.0.1.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\SEZ6471\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Cors 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Cors",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
